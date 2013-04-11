@@ -1,4 +1,3 @@
-WebViewTemplate
-===============
+Default WebView Template
+========================
 
-WebViewTemplate
